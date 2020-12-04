@@ -1,0 +1,62 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="1590013284" file="C:\Users\paige\OneDrive\Documents\PHYS1130\finalapp.prj" location="C:\Users\paige\OneDrive\Documents\PHYS1130" name="finalapp" target="target.mlapps" target-name="Package App">
+    <param.appname>finalapp</param.appname>
+    <param.authnamewatermark>Paige Leven</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description>Shows graph of the note A at octave 4 for reference on the left. On the right, you are able to manipulate the variables for frequency, amplitude, and phase change.</param.description>
+    <param.screenshot>C:\Users\paige\AppData\Local\Temp\tpd11a2c45_f477_4fbf_8a90_76e6dbe2724a.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>99a240fb-41f0-46d7-bee5-5a728bb09224</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\finalapp1.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\paige\OneDrive\Documents" name="PHYS1130" optional="false">C:\Users\paige\OneDrive\Documents\PHYS1130</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2020a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
